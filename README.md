@@ -1,7 +1,11 @@
-# buildpath
+# Buildpath
 
 - **template of:** vite + react + typescript
 - **tailwindcss:** v3.x
+- **project management:** [ClickUp](https://app.clickup.com/8445079/v/l/s/49664568)
+- **mockups:** [Figma](https://www.figma.com/file/3HuZeyRnkf8yQrEQeBFLh4/Buildpath?node-id=0%3A1)
+
+---
 
 ## Started
 
@@ -11,8 +15,6 @@ pnpm install
 # or `npm install`
 ```
 
----
-
 ## Develop
 
 ```bash
@@ -21,7 +23,6 @@ pnpm dev
 # or `npm run dev`
 ```
 
----
 
 ## Build
 
