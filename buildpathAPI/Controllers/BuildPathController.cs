@@ -14,8 +14,7 @@ namespace buildpathAPI.Controllers
             _logger = logger;
         }
 
-        [HttpGet(Name = "GetBuildPath")]
-        [Route("{champion}")]
+        [HttpGet("{champion}", Name = "GetBuildPath")]
         public IActionResult GetFor([FromRoute] string champion)
         {
             return Ok(champion);
