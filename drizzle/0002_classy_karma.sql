@@ -1,0 +1,1 @@
+ALTER TABLE champions ADD `done` integer;

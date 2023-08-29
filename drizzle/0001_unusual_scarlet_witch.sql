@@ -1,0 +1,1 @@
+ALTER TABLE `champions` DROP COLUMN `title`;
